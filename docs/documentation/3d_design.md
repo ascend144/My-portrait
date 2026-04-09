@@ -10,4 +10,8 @@ for our nature retreat me and my mentor mentee group went to Bumdrak which is lo
 
 ## video
 
-loren ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat.
+<iframe
+    src = "https://drive.google.com/file/d/1AncJbq9PGMhcqEs4kVI2Cg9fojOrgN4e/preview"
+    width = "100%"
+    height = "480">
+</iframe>
