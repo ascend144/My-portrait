@@ -25,15 +25,13 @@ title: About me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Jigme Namgyel Thinley
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"Education is a progressive discovery of our own ignorance."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
-
+Hello, I am Jigme Namgyel Thinley and im currently studying in the 8th grade.
 </div>
 
 </div>
@@ -44,21 +42,15 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2025 – Present | 8  | DGI |
+| 2025 – 2030 | Higher Secondary | TRA |
 
 ## 🛠️ Skills
 
 <div markdown>
 
 <span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
+<span class="skill-badge">HTML</span>
 
 </div>
 
@@ -71,10 +63,10 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **Research Area 1** — Quantum computing
+- 🎨 **Creative Hobby** — Designing 3d models
+- 🏃 **Sports / Activity** — Basketball/football
+- 📚 **Reading / Learning** — History
 
 <hr class="section-divider">
 
