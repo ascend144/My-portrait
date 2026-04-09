@@ -15,7 +15,7 @@ tags:
      4. Add a card on the Projects overview page (projects/index.md)
      ============================================================ -->
 
-# 🔧 Project Title
+# 🔧 Moon Camp Challenge
 
 <span class="status-badge in-progress">In Progress</span>
 
@@ -25,9 +25,9 @@ tags:
      <span class="status-badge planned">Planned</span>
 -->
 
-> **Duration:** Month Year – Month Year  
-> **Role:** Your Role  
-> **Team Size:** Solo / Number of members  
+> **Duration:** March – June 2026 
+> **Role:** Designer and researcher 
+> **Team Size:** 3 members
 > **Repository:** [GitHub Link](https://github.com/yourusername/project)
 
 ---
@@ -52,7 +52,7 @@ Who is it for? What makes it interesting?
 
 ---
 
-## 🏛️ Architecture / Design
+## Design
 
 Describe the high-level architecture or design of your project.
 You can use a Mermaid diagram:
@@ -79,33 +79,19 @@ graph TD
 | Design   | Fusion 360, KiCad |
 | Other    | 3D Printer, Laser Cutter |
 
-### Key Features
 
-=== "Feature 1"
 
-    Describe the first key feature of your project.
-
-    ```python
-    # Example code for this feature
-    def feature_one():
-        pass
-    ```
-
-=== "Feature 2"
-
-    Describe the second key feature.
-
-=== "Feature 3"
-
-    Describe the third key feature.
 
 ### Build Process
 
-!!! example "Step-by-Step Build"
+#### Problems
+!! example "Step-by-Step Build"
 
     1. **Step 1** — Description of what you did
     2. **Step 2** — Description of what you did
     3. **Step 3** — Description of what you did
+
+### Solution
 
 ---
 
