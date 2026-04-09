@@ -1,11 +1,13 @@
-# 3D Designing
+# Nature retreat
 
-this is a demmo
+Ma'am Deki's Mentees
 
-## Design software
+## First Nature Retreat
 
-loren ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat.
+### Bumdrak,sky burials,footprints of 1000 dakinis
 
-## Real life projects
+for our nature retreat me and my mentor mentee group went to Bumdrak which is located at approximately 3,800 to 3,860 meters
+
+## video
 
 loren ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat.
