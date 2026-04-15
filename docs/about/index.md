@@ -76,6 +76,6 @@ Hello, I am Jigme Namgyel Thinley and im currently studying in the 8th grade.
 | Platform | Link |
 |----------|------|
 | :fontawesome-brands-github: GitHub | [Ascend144](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
+| :fontawesome-brands-linkedin: LinkedIn | [Jigme Namgyel Thinley](https://linkedin.com/in/yourusername) |
 | :material-email: Email | [Jigme.nthinley2025@academy.bt](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+| :material-web: Website | [nil](https://yourwebsite.com) |
